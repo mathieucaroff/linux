@@ -1,0 +1,11 @@
+{
+    "name": "linux",
+    "version": "1.0",
+    "description": "Ressources to learn and to teach linux",
+    "repository": "https://github.com/mathieucaroff/linux",
+    "author": "Mathieu CAROFF <mathieu.caroff@free.fr>",
+    "license": "CC0-1.0",
+    "scripts": {
+       "build": "mkdir -p dist; cp *.* dist/"
+    }
+}
